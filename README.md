@@ -1,4 +1,4 @@
-# CSE481 (Quantum Computing 1)
+# BRACU CSE481 (Quantum Computing 1)
 <b><em>1. Mathematics (Linear Algebra) required for Quantum Computing (Helps to visualize maths):</em></b> [Essence of linear algebra by 3Blue1Brown (Author: Grant Sanderson)](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) [Youtube Playlist]
 
 <b><em>2. CSE 481(BRACU) LAB - Summer 2024:</b></em> [BRACU_CSE481 (Quantum Computing 1) Lab - Summer 2024](https://www.youtube.com/playlist?list=PLvj5w6iNZqVjr40Xmk-JxrTc8eb4rFlhz) [Youtube Playlist]
@@ -39,7 +39,8 @@ This quantum computing course offers a solid foundation, covering the basics and
 
 <br></br>
 
-# CSE482 (Quantum Computing 2)
+# BRACU CSE482 (Quantum Computing 2)
+
 <b><em>1. CSE 482(BRACU) THEORY - Summer 2024:</b></em> [BRACU_CSE482 (Quantum Computing 2) Theory - Summer 2024](https://www.youtube.com/playlist?list=PLvj5w6iNZqViEPZo0PaHqOK_spCeHKfGT) <br>
 <b><em>2. CSE 482(BRACU) LAB - Summer 2024:</b></em> [BRACU_CSE482 (Quantum Computing 2) Lab - Summer 2024](https://www.youtube.com/playlist?list=PLvj5w6iNZqVhsPZnkK0bjl-0jFnoOqNOT)<br>
 
