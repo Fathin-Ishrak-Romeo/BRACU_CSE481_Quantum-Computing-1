@@ -7,5 +7,5 @@
 
 This quantum computing course offers a solid foundation, covering the basics and providing a clear understanding of popular quantum algorithms through a concise video. The content aligns well with the CSE481 course offered by BRAC University. If you're looking to refresh your basic concepts before enrolling in CSE481, this video can be very helpful. You can also watch it during the course to clarify certain topics. However, the course does not go into great depth in most areas.
 
-Lecture video link: Quantum Computing Course - Math and Theory for Beginners by freeCodeCamp.org
+Lecture video link: [Quantum Computing Course - Math and Theory for Beginners by freeCodeCamp.org](https://www.youtube.com/watch?v=tsbCSkvHhMo&t=2877s)
 Problem sets link: https://drive.google.com/drive/folders/1A-RHTQFRY_pipVfItQBxMU-xEexRESQj
