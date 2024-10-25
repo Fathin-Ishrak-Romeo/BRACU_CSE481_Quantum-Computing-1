@@ -1,13 +1,15 @@
 # CSE481 (Quantum Computing 1)
 <b><em>1. Mathematics (Linear Algebra) required for Quantum Computing (Helps to visualize maths):</em></b> [Essence of linear algebra by 3Blue1Brown (Author: Grant Sanderson)](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) [Youtube Playlist]
 
-<b><em>2. CSE 481(BRACU) LAB - Summer 2024:</b></em> [CSE481 (Quantum Computing 1) Lab - Summer 2024](https://www.youtube.com/playlist?list=PLvj5w6iNZqVjr40Xmk-JxrTc8eb4rFlhz) [Youtube Playlist]
+<b><em>2. CSE 481(BRACU) LAB - Summer 2024:</b></em> [BRACU_CSE481 (Quantum Computing 1) Lab - Summer 2024](https://www.youtube.com/playlist?list=PLvj5w6iNZqVjr40Xmk-JxrTc8eb4rFlhz) [Youtube Playlist]
 
 <b><em>3. Quantum Computing Course - Math and Theory for Beginners by freeCodeCamp.org <mark>(RECOMMENDED)</mark>:</b></em> <br>
 This quantum computing course offers a solid foundation, covering the basics and providing a clear understanding of popular quantum algorithms through a concise video. <mark> The content aligns well with the CSE481 course offered by BRAC University. If you're looking to refresh your basic concepts before enrolling in CSE481, this video can be very helpful. You can also watch it during the course to clarify certain topics. However, the course does not go into great depth in most areas. </mark>
 
 <b><em>Lecture video link:</b></em> [Quantum Computing Course - Math and Theory for Beginners by freeCodeCamp.org](https://www.youtube.com/watch?v=tsbCSkvHhMo&t=2877s) <br>
-<b><em>Problem sets link:</b></em> https://drive.google.com/drive/folders/1A-RHTQFRY_pipVfItQBxMU-xEexRESQj <be>
+<b><em>Problem sets link:</b></em> https://drive.google.com/drive/folders/1A-RHTQFRY_pipVfItQBxMU-xEexRESQj
+
+<b><em>4. For Linear Algebra:</b></em> [Linear Algebra Done Right by Sheldon Axler](https://www.youtube.com/playlist?list=PLGAnmvB9m7zOBVCZBUUmSinFV0wEir2Vw) <br>
 
 <br></br>
 
@@ -30,13 +32,16 @@ This quantum computing course offers a solid foundation, covering the basics and
 
 ### <b><em>Some previous semesters' Quantum Computing 1 related lecture videos (Youtube Playlists):</b></em>
 
-1. For Linear Algebra: [Linear Algebra Done Right by Sheldon Axler](https://www.youtube.com/playlist?list=PLGAnmvB9m7zOBVCZBUUmSinFV0wEir2Vw)
-2. [CSE481: Quantum Computing | Fall 2022](https://www.youtube.com/playlist?list=PL-lCYwFS3hp2T0MAwY0MmQpWaQF0pmsJv) by Sadman Shahriar, Lecturer, BRAC University
-3. [[CSE490.1] Quantum Computing - Lectures | Summer '20 | BRAC University](https://www.youtube.com/playlist?list=PLvj5w6iNZqVh1xEngYv-YRrV00O89HVrb) by RoughKhata
-4. [[CSE490.1] Quantum Computing - Live Sessions | Summer '20 | BRAC University](https://www.youtube.com/playlist?list=PLvj5w6iNZqVjI42wggGqWM3qUqibQcbgn) by RoughKhata
-5. [BRACU Quantum Computing Boot-Camp](https://www.youtube.com/playlist?list=PLvj5w6iNZqVg_f6tGzuWkNj873pkHjrvK) by RoughKhata  <br>
+1. [CSE481: Quantum Computing | Fall 2022](https://www.youtube.com/playlist?list=PL-lCYwFS3hp2T0MAwY0MmQpWaQF0pmsJv) by Sadman Shahriar, Lecturer, BRAC University
+2. [[CSE490.1] Quantum Computing - Lectures | Summer '20 | BRAC University](https://www.youtube.com/playlist?list=PLvj5w6iNZqVh1xEngYv-YRrV00O89HVrb) by RoughKhata
+3. [[CSE490.1] Quantum Computing - Live Sessions | Summer '20 | BRAC University](https://www.youtube.com/playlist?list=PLvj5w6iNZqVjI42wggGqWM3qUqibQcbgn) by RoughKhata
+4. [BRACU Quantum Computing Boot-Camp](https://www.youtube.com/playlist?list=PLvj5w6iNZqVg_f6tGzuWkNj873pkHjrvK) by RoughKhata  <br>
 
 <br></br>
+
+# CSE482 (Quantum Computing 2)
+<b><em>1. CSE 482(BRACU) THEORY - Summer 2024:</b></em> [BRACU_CSE482 (Quantum Computing 2) Theory - Summer 2024](https://www.youtube.com/playlist?list=PLvj5w6iNZqViEPZo0PaHqOK_spCeHKfGT)
+<b><em>2. CSE 482(BRACU) LAB - Summer 2024:</b></em> [BRACU_CSE482 (Quantum Computing 2) Lab - Summer 2024](https://www.youtube.com/playlist?list=PLvj5w6iNZqVhsPZnkK0bjl-0jFnoOqNOT)
 
 # Quantum Computing (In general)
 
