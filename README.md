@@ -4,7 +4,6 @@
 <b><em>2. CSE 481(BRACU) LAB - Summer 2024:</b></em> [CSE481 (Quantum Computing 1) Lab - Summer 2024](https://www.youtube.com/playlist?list=PLvj5w6iNZqVjr40Xmk-JxrTc8eb4rFlhz) [Youtube video]
 
 <b><em>3. Quantum Computing Course - Math and Theory for Beginners by freeCodeCamp.org <mark>(RECOMMENDED)</mark>:</b></em>
-
 This quantum computing course offers a solid foundation, covering the basics and providing a clear understanding of popular quantum algorithms through a concise video. <mark> The content aligns well with the CSE481 course offered by BRAC University. If you're looking to refresh your basic concepts before enrolling in CSE481, this video can be very helpful. You can also watch it during the course to clarify certain topics. However, the course does not go into great depth in most areas. </mark>
 
 <b><em>Lecture video link:</b></em> [Quantum Computing Course - Math and Theory for Beginners by freeCodeCamp.org](https://www.youtube.com/watch?v=tsbCSkvHhMo&t=2877s) <br>
@@ -25,8 +24,7 @@ This quantum computing course offers a solid foundation, covering the basics and
 10. [CSE481: Summer 24 consultation and problem solving](https://www.youtube.com/watch?v=EX4OIE5eP_I)  
 11. [5.3.23 CSE 481 Observables, Eigenspace, Expectation value, Variance and Heisenberg's Uncertainty (Previous)](https://www.youtube.com/watch?v=MJlCv00j_FA)
 12. [CSE-481-01 Algorithms Part 1 (Deutsch Algorithm) (Previous)](https://www.youtube.com/watch?v=Ru4zDOVkSuY)
-13. [CSE-481-01 Algorithms Part 2 (Deutsch-Jozsa Algorithm) (Previous) ](https://www.youtube.com/watch?v=MmTOh1ao6TY) <be>
-
+13. [CSE-481-01 Algorithms Part 2 (Deutsch-Jozsa Algorithm) (Previous) ](https://www.youtube.com/watch?v=MmTOh1ao6TY) <br>
 
 <br></br>
 
@@ -36,4 +34,8 @@ This quantum computing course offers a solid foundation, covering the basics and
 2. [CSE481: Quantum Computing | Fall 2022](https://www.youtube.com/playlist?list=PL-lCYwFS3hp2T0MAwY0MmQpWaQF0pmsJv) by Sadman Shahriar, Lecturer, BRAC University
 3. [[CSE490.1] Quantum Computing - Lectures | Summer '20 | BRAC University](https://www.youtube.com/playlist?list=PLvj5w6iNZqVh1xEngYv-YRrV00O89HVrb) by RoughKhata
 4. [[CSE490.1] Quantum Computing - Live Sessions | Summer '20 | BRAC University](https://www.youtube.com/playlist?list=PLvj5w6iNZqVjI42wggGqWM3qUqibQcbgn) by RoughKhata
-5. [BRACU Quantum Computing Boot-Camp](https://www.youtube.com/playlist?list=PLvj5w6iNZqVg_f6tGzuWkNj873pkHjrvK) by RoughKhata
+5. [BRACU Quantum Computing Boot-Camp](https://www.youtube.com/playlist?list=PLvj5w6iNZqVg_f6tGzuWkNj873pkHjrvK) by RoughKhata  <be>
+
+<br></br>
+
+##Quantum Computing(In general)
