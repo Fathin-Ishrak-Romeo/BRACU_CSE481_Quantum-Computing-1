@@ -10,4 +10,6 @@ This quantum computing course offers a solid foundation, covering the basics and
 <b><em>Lecture video link:<b><em> [Quantum Computing Course - Math and Theory for Beginners by freeCodeCamp.org](https://www.youtube.com/watch?v=tsbCSkvHhMo&t=2877s) <br>
 <b><em>Problem sets link:<b><em> https://drive.google.com/drive/folders/1A-RHTQFRY_pipVfItQBxMU-xEexRESQj <br>
 
+<p><span style="font-size: 20px;">Some CSE481 Theory Lecture Videos from Summer 2024 by Jishnu Mahmud, Lecturer, BRAC University: </span></p>
+
 <font size = "7">Some CSE481 Theory Lecture Videos from Summer 2024 by Jishnu Mahmud, Lecturer, BRAC University: </font>
