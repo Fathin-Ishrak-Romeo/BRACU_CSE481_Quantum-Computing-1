@@ -40,8 +40,10 @@ This quantum computing course offers a solid foundation, covering the basics and
 <br></br>
 
 # CSE482 (Quantum Computing 2)
-<b><em>1. CSE 482(BRACU) THEORY - Summer 2024:</b></em> [BRACU_CSE482 (Quantum Computing 2) Theory - Summer 2024](https://www.youtube.com/playlist?list=PLvj5w6iNZqViEPZo0PaHqOK_spCeHKfGT)
-<b><em>2. CSE 482(BRACU) LAB - Summer 2024:</b></em> [BRACU_CSE482 (Quantum Computing 2) Lab - Summer 2024](https://www.youtube.com/playlist?list=PLvj5w6iNZqVhsPZnkK0bjl-0jFnoOqNOT)
+<b><em>1. CSE 482(BRACU) THEORY - Summer 2024:</b></em> [BRACU_CSE482 (Quantum Computing 2) Theory - Summer 2024](https://www.youtube.com/playlist?list=PLvj5w6iNZqViEPZo0PaHqOK_spCeHKfGT) <br>
+<b><em>2. CSE 482(BRACU) LAB - Summer 2024:</b></em> [BRACU_CSE482 (Quantum Computing 2) Lab - Summer 2024](https://www.youtube.com/playlist?list=PLvj5w6iNZqVhsPZnkK0bjl-0jFnoOqNOT)<br>
+
+<be></br>
 
 # Quantum Computing (In general)
 
