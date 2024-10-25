@@ -34,7 +34,7 @@ This quantum computing course offers a solid foundation, covering the basics and
 2. [CSE481: Quantum Computing | Fall 2022](https://www.youtube.com/playlist?list=PL-lCYwFS3hp2T0MAwY0MmQpWaQF0pmsJv) by Sadman Shahriar, Lecturer, BRAC University
 3. [[CSE490.1] Quantum Computing - Lectures | Summer '20 | BRAC University](https://www.youtube.com/playlist?list=PLvj5w6iNZqVh1xEngYv-YRrV00O89HVrb) by RoughKhata
 4. [[CSE490.1] Quantum Computing - Live Sessions | Summer '20 | BRAC University](https://www.youtube.com/playlist?list=PLvj5w6iNZqVjI42wggGqWM3qUqibQcbgn) by RoughKhata
-5. [BRACU Quantum Computing Boot-Camp](https://www.youtube.com/playlist?list=PLvj5w6iNZqVg_f6tGzuWkNj873pkHjrvK) by RoughKhata  <be>
+5. [BRACU Quantum Computing Boot-Camp](https://www.youtube.com/playlist?list=PLvj5w6iNZqVg_f6tGzuWkNj873pkHjrvK) by RoughKhata  <br>
 
 <br></br>
 
