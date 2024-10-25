@@ -44,7 +44,7 @@ This quantum computing course offers a solid foundation, covering the basics and
    <b><em>YouTube Channel Link:</b></em> [RoughKhata [রাফখাতা] ](https://www.youtube.com/@raf-khata/playlists) <mark> (You’ll also find CSE482 - Quantum Computing 2 lecture videos for both theory and lab here) </mark> <br>
              <b><em>Lecturer:</b></em> <br>
              i) [Sowmitra Das](https://cse.sds.bracu.ac.bd/faculty_profile/307/sowmitra_das), Lecturer, BRAC University <br>
-             ii) [Mr. Shadman Shahriar](https://cse.sds.bracu.ac.bd/faculty_profile/146/mr_shadman_shahriar), Lecturer, BRAC University  
+             ii) [Mr. Shadman Shahriar](https://cse.sds.bracu.ac.bd/faculty_profile/146/mr_shadman_shahriar), Lecturer, BRAC University   
 
 <b><em>2. Youtube Video:</b></em> [Introduction to Quantum Information Science by Arfur Ekert ](https://www.youtube.com/playlist?list=PLkespgaZN4gmu0nWNmfMflVRqw0VPkCGH)
 
