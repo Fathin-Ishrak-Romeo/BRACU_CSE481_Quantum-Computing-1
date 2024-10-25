@@ -38,7 +38,7 @@ This quantum computing course offers a solid foundation, covering the basics and
 
 <br></br>
 
-## Quantum Computing(In general)
+### Quantum Computing(In general)
 
 1. For more QC related topics(IF YOU ARE INTERESTED): ***** <br>
    YouTube Channel Link: [RoughKhata [রাফখাতা] ](https://www.youtube.com/@raf-khata/playlists) <mark> (You’ll also find CSE482 - Quantum Computing 2 lecture videos for both theory and lab here) </mark> <br>
