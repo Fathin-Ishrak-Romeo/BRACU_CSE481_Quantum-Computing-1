@@ -1,7 +1,7 @@
 # CSE481 (Quantum Computing 1)
-<b><em>1. Mathematics (Linear Algebra) required for Quantum Computing (Helps to visualize maths):</em></b> [Essence of linear algebra by 3Blue1Brown (Author: Grant Sanderson)](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) [Youtube video]
+<b><em>1. Mathematics (Linear Algebra) required for Quantum Computing (Helps to visualize maths):</em></b> [Essence of linear algebra by 3Blue1Brown (Author: Grant Sanderson)](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) [Youtube Playlist]
 
-<b><em>2. CSE 481(BRACU) LAB - Summer 2024:</b></em> [CSE481 (Quantum Computing 1) Lab - Summer 2024](https://www.youtube.com/playlist?list=PLvj5w6iNZqVjr40Xmk-JxrTc8eb4rFlhz) [Youtube video]
+<b><em>2. CSE 481(BRACU) LAB - Summer 2024:</b></em> [CSE481 (Quantum Computing 1) Lab - Summer 2024](https://www.youtube.com/playlist?list=PLvj5w6iNZqVjr40Xmk-JxrTc8eb4rFlhz) [Youtube Playlist]
 
 <b><em>3. Quantum Computing Course - Math and Theory for Beginners by freeCodeCamp.org <mark>(RECOMMENDED)</mark>:</b></em> <br>
 This quantum computing course offers a solid foundation, covering the basics and providing a clear understanding of popular quantum algorithms through a concise video. <mark> The content aligns well with the CSE481 course offered by BRAC University. If you're looking to refresh your basic concepts before enrolling in CSE481, this video can be very helpful. You can also watch it during the course to clarify certain topics. However, the course does not go into great depth in most areas. </mark>
@@ -28,9 +28,9 @@ This quantum computing course offers a solid foundation, covering the basics and
 
 <br></br>
 
-### <b><em>Some previous semesters' Quantum Computing 1 related lecture videos:</b></em>
+### <b><em>Some previous semesters' Quantum Computing 1 related lecture videos (Youtube Playlists):</b></em>
 
-1. For Linear Algebra: [Linear Algebra Done Right by Sheldon Axler](https://www.youtube.com/playlist?list=PLGAnmvB9m7zOBVCZBUUmSinFV0wEir2Vw) 
+1. For Linear Algebra: [Linear Algebra Done Right by Sheldon Axler](https://www.youtube.com/playlist?list=PLGAnmvB9m7zOBVCZBUUmSinFV0wEir2Vw)
 2. [CSE481: Quantum Computing | Fall 2022](https://www.youtube.com/playlist?list=PL-lCYwFS3hp2T0MAwY0MmQpWaQF0pmsJv) by Sadman Shahriar, Lecturer, BRAC University
 3. [[CSE490.1] Quantum Computing - Lectures | Summer '20 | BRAC University](https://www.youtube.com/playlist?list=PLvj5w6iNZqVh1xEngYv-YRrV00O89HVrb) by RoughKhata
 4. [[CSE490.1] Quantum Computing - Live Sessions | Summer '20 | BRAC University](https://www.youtube.com/playlist?list=PLvj5w6iNZqVjI42wggGqWM3qUqibQcbgn) by RoughKhata
@@ -41,16 +41,16 @@ This quantum computing course offers a solid foundation, covering the basics and
 # Quantum Computing (In general)
 
 <b><em>1. For more QC related topics(IF YOU ARE INTERESTED): ***** </b></em> <br>
-   <b><em>YouTube Channel Link:</b></em> [RoughKhata [রাফখাতা] ](https://www.youtube.com/@raf-khata/playlists) <mark> (You’ll also find CSE482 - Quantum Computing 2 lecture videos for both theory and lab here) </mark> <br>
+   <b><em>Youtube Channel Link:</b></em> [RoughKhata [রাফখাতা] ](https://www.youtube.com/@raf-khata/playlists) <mark> (You’ll also find CSE482 - Quantum Computing 2 lecture videos for both theory and lab here) </mark> <br>
              <b><em>Lecturer:</b></em> <br>
              i) [Sowmitra Das](https://cse.sds.bracu.ac.bd/faculty_profile/307/sowmitra_das), Lecturer, BRAC University <br>
              ii) [Mr. Shadman Shahriar](https://cse.sds.bracu.ac.bd/faculty_profile/146/mr_shadman_shahriar), Lecturer, BRAC University   
 
-<b><em>2. Youtube Video:</b></em> [Introduction to Quantum Information Science by Arfur Ekert ](https://www.youtube.com/playlist?list=PLkespgaZN4gmu0nWNmfMflVRqw0VPkCGH)
+<b><em>2. Youtube Playlist:</b></em> [Introduction to Quantum Information Science by Arfur Ekert ](https://www.youtube.com/playlist?list=PLkespgaZN4gmu0nWNmfMflVRqw0VPkCGH)
 
 <b><em>3. A Free Quantum Computing Course:</b></em> [Quantum Computer Programming (2022-II)](https://fagonzalezo.github.io/qcp-2022-2/) by [Fabio A. González](https://www.google.com/url?q=http://dis.unal.edu.co/~fgonza/&sa=D&source=docs&ust=1729863857007213&usg=AOvVaw1tEZ0-YuGB_pajH6QOLej7)
 
-<b><em>4. Youtube video:</b></em> [Introduction to Quantum Computing](https://www.youtube.com/playlist?list=PLnK6MrIqGXsJfcBdppW3CKJ858zR8P4eP) by Introduction to Quantum Computing
+<b><em>4. Youtube Playlist:</b></em> [Introduction to Quantum Computing](https://www.youtube.com/playlist?list=PLnK6MrIqGXsJfcBdppW3CKJ858zR8P4eP) by Introduction to Quantum Computing
 
 <b><em>5. GitHub Resources: </b></em> <br>
 i) [Quantum Computing Resource Haven](https://github.com/desireevl/awesome-quantum-computing?tab=readme-ov-file) <br>
