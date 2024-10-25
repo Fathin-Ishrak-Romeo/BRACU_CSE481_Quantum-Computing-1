@@ -38,22 +38,20 @@ This quantum computing course offers a solid foundation, covering the basics and
 
 <br></br>
 
-### Quantum Computing(In general)
+# Quantum Computing(In general)
 
-1. For more QC related topics(IF YOU ARE INTERESTED): ***** <br>
-   YouTube Channel Link: [RoughKhata [রাফখাতা] ](https://www.youtube.com/@raf-khata/playlists) <mark> (You’ll also find CSE482 - Quantum Computing 2 lecture videos for both theory and lab here) </mark> <br>
-             Lecturer: <br>
+<b><em>1. For more QC related topics(IF YOU ARE INTERESTED): ***** <b/></em> <br>
+   <b><em>YouTube Channel Link:</b></em> [RoughKhata [রাফখাতা] ](https://www.youtube.com/@raf-khata/playlists) <mark> (You’ll also find CSE482 - Quantum Computing 2 lecture videos for both theory and lab here) </mark> <br>
+             <b><em>Lecturer:</b></em> <br>
              i) [Sowmitra Das](https://cse.sds.bracu.ac.bd/faculty_profile/307/sowmitra_das), Lecturer, BRAC University <br>
              ii) [Mr. Shadman Shahriar](https://cse.sds.bracu.ac.bd/faculty_profile/146/mr_shadman_shahriar), Lecturer, BRAC University  
 
-2. Youtube Video: [Introduction to Quantum Information Science by Arfur Ekert ](https://www.youtube.com/playlist?list=PLkespgaZN4gmu0nWNmfMflVRqw0VPkCGH)
+<b><em>2. Youtube Video:</b></em> [Introduction to Quantum Information Science by Arfur Ekert ](https://www.youtube.com/playlist?list=PLkespgaZN4gmu0nWNmfMflVRqw0VPkCGH)
 
-3. A Free Quantum Computing Course: 
+<b><em>3. A Free Quantum Computing Course:</b></em> [Quantum Computer Programming (2022-II)](https://fagonzalezo.github.io/qcp-2022-2/) by [Fabio A. González](https://www.google.com/url?q=http://dis.unal.edu.co/~fgonza/&sa=D&source=docs&ust=1729863857007213&usg=AOvVaw1tEZ0-YuGB_pajH6QOLej7)
 
-4. Quantum Computing Programming by [Fabio A. González](https://www.google.com/url?q=http://dis.unal.edu.co/~fgonza/&sa=D&source=docs&ust=1729863857007213&usg=AOvVaw1tEZ0-YuGB_pajH6QOLej7) link: link: [Quantum Computer Programming (2022-II)](https://fagonzalezo.github.io/qcp-2022-2/)
+<b><em>4. Youtube video:</b></em> [Introduction to Quantum Computing](https://www.youtube.com/playlist?list=PLnK6MrIqGXsJfcBdppW3CKJ858zR8P4eP) by Introduction to Quantum Computing
 
-5. Youtube video: [Introduction to Quantum Computing](https://www.youtube.com/playlist?list=PLnK6MrIqGXsJfcBdppW3CKJ858zR8P4eP) by Introduction to Quantum Computing
-
-6. GitHub Resources: <br>
+<b><em>5. GitHub Resources: </b></em> <br>
 i) [Quantum Computing Resource Haven](https://github.com/desireevl/awesome-quantum-computing?tab=readme-ov-file) <br>
 ii) [Books on Quantum Computing](https://github.com/manjunath5496/Quantum-Computing-Books?tab=readme-ov-file) 
