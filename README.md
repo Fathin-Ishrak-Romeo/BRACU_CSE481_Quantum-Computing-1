@@ -40,7 +40,7 @@ This quantum computing course offers a solid foundation, covering the basics and
 
 # Quantum Computing(In general)
 
-<b><em>1. For more QC related topics(IF YOU ARE INTERESTED): ***** <b/></em> <br>
+<b><em>1. For more QC related topics(IF YOU ARE INTERESTED): ***** </b></em> <br>
    <b><em>YouTube Channel Link:</b></em> [RoughKhata [রাফখাতা] ](https://www.youtube.com/@raf-khata/playlists) <mark> (You’ll also find CSE482 - Quantum Computing 2 lecture videos for both theory and lab here) </mark> <br>
              <b><em>Lecturer:</b></em> <br>
              i) [Sowmitra Das](https://cse.sds.bracu.ac.bd/faculty_profile/307/sowmitra_das), Lecturer, BRAC University <br>
