@@ -11,7 +11,7 @@ This quantum computing course offers a solid foundation, covering the basics and
 <b><em>Problem sets link:</b></em> https://drive.google.com/drive/folders/1A-RHTQFRY_pipVfItQBxMU-xEexRESQj <br>
 <br></br>
 
-<b><em>Some CSE481 Theory Lecture Videos from Summer 2024 by [Jishnu Mahmud](https://www.cse.sds.bracu.ac.bd/faculty_profile/87/jishnu_mahmud), Lecturer, BRAC University:
+<b><em>Some CSE481 Theory Lecture Videos from Summer 2024 by [Jishnu Mahmud](https://www.cse.sds.bracu.ac.bd/faculty_profile/87/jishnu_mahmud), Lecturer, BRAC University: </b></em>
 1. [CSE 481- Composite vector spaces, Tensor products and Partial Measurements ](https://www.youtube.com/watch?v=ZnCIm-XwzZ8)
 2. [CSE 481- Composite vector spaces, Tensor products and Partial Measurements (Previous) ](https://www.youtube.com/watch?v=ZnCIm-XwzZ8)
 3. [CSE 481 summer 24 postulates online class-1](https://www.youtube.com/watch?v=aWr0fz1pV1w)
@@ -24,4 +24,4 @@ This quantum computing course offers a solid foundation, covering the basics and
 10. [CSE481: Summer 24 consultation and problem solving](https://www.youtube.com/watch?v=EX4OIE5eP_I)  
 11. [5.3.23 CSE 481 Observables, Eigenspace, Expectation value, Variance and Heisenberg's Uncertainty (Previous)](https://www.youtube.com/watch?v=MJlCv00j_FA)
 12. [CSE-481-01 Algorithms Part 1 (Deutsch Algorithm) (Previous)](https://www.youtube.com/watch?v=Ru4zDOVkSuY)
-13. [CSE-481-01 Algorithms Part 2 (Deutsch-Jozsa Algorithm) (Previous) ](https://www.youtube.com/watch?v=MmTOh1ao6TY) </b></em>
+13. [CSE-481-01 Algorithms Part 2 (Deutsch-Jozsa Algorithm) (Previous) ](https://www.youtube.com/watch?v=MmTOh1ao6TY) 
