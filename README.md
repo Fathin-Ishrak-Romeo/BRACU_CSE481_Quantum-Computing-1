@@ -3,7 +3,7 @@
 
 <b><em>2. CSE 481(BRACU) LAB - Summer 2024:</b></em> [CSE481 (Quantum Computing 1) Lab - Summer 2024](https://www.youtube.com/playlist?list=PLvj5w6iNZqVjr40Xmk-JxrTc8eb4rFlhz) [Youtube video]
 
-<b><em>3. Quantum Computing Course - Math and Theory for Beginners by freeCodeCamp.org <mark>(RECOMMENDED)</mark>:</b></em>
+<b><em>3. Quantum Computing Course - Math and Theory for Beginners by freeCodeCamp.org <mark>(RECOMMENDED)</mark>:</b></em> <br>
 This quantum computing course offers a solid foundation, covering the basics and providing a clear understanding of popular quantum algorithms through a concise video. <mark> The content aligns well with the CSE481 course offered by BRAC University. If you're looking to refresh your basic concepts before enrolling in CSE481, this video can be very helpful. You can also watch it during the course to clarify certain topics. However, the course does not go into great depth in most areas. </mark>
 
 <b><em>Lecture video link:</b></em> [Quantum Computing Course - Math and Theory for Beginners by freeCodeCamp.org](https://www.youtube.com/watch?v=tsbCSkvHhMo&t=2877s) <br>
@@ -11,7 +11,7 @@ This quantum computing course offers a solid foundation, covering the basics and
 
 <br></br>
 
-<b><em>Some CSE481 Theory Lecture Videos from Summer 2024 by [Jishnu Mahmud](https://www.cse.sds.bracu.ac.bd/faculty_profile/87/jishnu_mahmud), Lecturer, BRAC University: </b></em>
+### <b><em>Some CSE481 Theory Lecture Videos from Summer 2024 by [Jishnu Mahmud](https://www.cse.sds.bracu.ac.bd/faculty_profile/87/jishnu_mahmud), Lecturer, BRAC University: </b></em>
 1. [CSE 481- Composite vector spaces, Tensor products and Partial Measurements ](https://www.youtube.com/watch?v=ZnCIm-XwzZ8)
 2. [CSE 481- Composite vector spaces, Tensor products and Partial Measurements (Previous) ](https://www.youtube.com/watch?v=ZnCIm-XwzZ8)
 3. [CSE 481 summer 24 postulates online class-1](https://www.youtube.com/watch?v=aWr0fz1pV1w)
@@ -28,7 +28,7 @@ This quantum computing course offers a solid foundation, covering the basics and
 
 <br></br>
 
-<b><em>Some previous semesters' Quantum Computing 1 related lecture videos:</b></em>
+### <b><em>Some previous semesters' Quantum Computing 1 related lecture videos:</b></em>
 
 1. For Linear Algebra: [Linear Algebra Done Right by Sheldon Axler](https://www.youtube.com/playlist?list=PLGAnmvB9m7zOBVCZBUUmSinFV0wEir2Vw) 
 2. [CSE481: Quantum Computing | Fall 2022](https://www.youtube.com/playlist?list=PL-lCYwFS3hp2T0MAwY0MmQpWaQF0pmsJv) by Sadman Shahriar, Lecturer, BRAC University
@@ -38,7 +38,7 @@ This quantum computing course offers a solid foundation, covering the basics and
 
 <br></br>
 
-# Quantum Computing(In general)
+# Quantum Computing (In general)
 
 <b><em>1. For more QC related topics(IF YOU ARE INTERESTED): ***** </b></em> <br>
    <b><em>YouTube Channel Link:</b></em> [RoughKhata [রাফখাতা] ](https://www.youtube.com/@raf-khata/playlists) <mark> (You’ll also find CSE482 - Quantum Computing 2 lecture videos for both theory and lab here) </mark> <br>
