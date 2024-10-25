@@ -1,5 +1,5 @@
 # CSE481 (Quantum Computing 1)
-1. Mathematics (Linear Algebra) required for Quantum Computing (Helps to visualize maths): [Essence of linear algebra by 3Blue1Brown (Author: Grant Sanderson)](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) [Youtube video]
+1. <b><em>Mathematics (Linear Algebra) required for Quantum Computing (Helps to visualize maths):</em></b> [Essence of linear algebra by 3Blue1Brown (Author: Grant Sanderson)](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) [Youtube video]
 
 2. CSE 481(BRACU) LAB - Summer 2024: [CSE481 (Quantum Computing 1) Lab - Summer 2024](https://www.youtube.com/playlist?list=PLvj5w6iNZqVjr40Xmk-JxrTc8eb4rFlhz) [Youtube video]
 
